@@ -1,2 +1,2 @@
-# Doctors-Appointment-System
+# SoftClinic
 Doctors-Appointment-Booking-System
